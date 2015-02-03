@@ -1,5 +1,5 @@
 # vmss.scripts
-vmss file parser using construct
+This is another vmss/vmsn file parser using construct
 
 ## usage
 ```sh
