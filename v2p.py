@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 import sys
 
 # http://127.0.0.1:8080/source/xref/linux/arch/x86/include/asm/page_64_types.h#35
